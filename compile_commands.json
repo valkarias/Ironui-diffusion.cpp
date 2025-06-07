@@ -1,0 +1,176 @@
+[
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_USE_CPU -DGGML_USE_VULKAN -DSD_BUILD_DLL -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -Dstable_diffusion_EXPORTS @CMakeFiles/stable-diffusion.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -o CMakeFiles\\stable-diffusion.dir\\model.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\model.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/model.cpp",
+  "output": "CMakeFiles/stable-diffusion.dir/model.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_USE_CPU -DGGML_USE_VULKAN -DSD_BUILD_DLL -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -Dstable_diffusion_EXPORTS @CMakeFiles/stable-diffusion.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -o CMakeFiles\\stable-diffusion.dir\\stable-diffusion.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\stable-diffusion.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/stable-diffusion.cpp",
+  "output": "CMakeFiles/stable-diffusion.dir/stable-diffusion.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_USE_CPU -DGGML_USE_VULKAN -DSD_BUILD_DLL -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -Dstable_diffusion_EXPORTS @CMakeFiles/stable-diffusion.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -o CMakeFiles\\stable-diffusion.dir\\upscaler.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\upscaler.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/upscaler.cpp",
+  "output": "CMakeFiles/stable-diffusion.dir/upscaler.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_USE_CPU -DGGML_USE_VULKAN -DSD_BUILD_DLL -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -Dstable_diffusion_EXPORTS @CMakeFiles/stable-diffusion.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -o CMakeFiles\\stable-diffusion.dir\\util.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\util.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/util.cpp",
+  "output": "CMakeFiles/stable-diffusion.dir/util.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml.c.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml.c",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml.c.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml-alloc.c.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-alloc.c",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-alloc.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml-backend.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-backend.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-backend.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml-opt.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-opt.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-opt.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml-threading.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-threading.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-threading.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml-quants.c.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-quants.c",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\gguf.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\gguf.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/gguf.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu.c.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu.c",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-aarch64.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-aarch64.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-aarch64.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-hbm.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-hbm.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-hbm.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-quants.c.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-quants.c",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-quants.c.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-traits.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-traits.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-traits.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\amx\\amx.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\amx\\amx.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\amx\\mmq.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\amx\\mmq.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\binary-ops.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\binary-ops.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\unary-ops.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\unary-ops.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\vec.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\vec.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ops.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-cpu\\ops.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU -DGGML_USE_VULKAN -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml.dir\\ggml-backend-reg.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-backend-reg.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-backend-reg.cpp",
+  "output": "ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-vulkan",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_VULKAN_COOPMAT2_GLSLC_SUPPORT -DGGML_VULKAN_COOPMAT_GLSLC_SUPPORT -DGGML_VULKAN_INTEGER_DOT_GLSLC_SUPPORT -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-vulkan.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-vulkan.dir\\ggml-vulkan.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-vulkan\\ggml-vulkan.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-vulkan/ggml-vulkan.cpp",
+  "output": "ggml/src/ggml-vulkan/CMakeFiles/ggml-vulkan.dir/ggml-vulkan.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-vulkan",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_SCHED_MAX_COPIES=4 -DGGML_VULKAN_COOPMAT2_GLSLC_SUPPORT -DGGML_VULKAN_COOPMAT_GLSLC_SUPPORT -DGGML_VULKAN_INTEGER_DOT_GLSLC_SUPPORT -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-vulkan.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -std=gnu++17 -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-vulkan.dir\\ggml-vulkan-shaders.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\ggml\\src\\ggml-vulkan\\ggml-vulkan-shaders.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-vulkan/ggml-vulkan-shaders.cpp",
+  "output": "ggml/src/ggml-vulkan/CMakeFiles/ggml-vulkan.dir/ggml-vulkan-shaders.cpp.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/thirdparty",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_MAX_NAME=128 -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN @CMakeFiles/zip.dir/includes_C.rsp -g -o CMakeFiles\\zip.dir\\zip.c.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\thirdparty\\zip.c",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/thirdparty/zip.c",
+  "output": "thirdparty/CMakeFiles/zip.dir/zip.c.obj"
+},
+{
+  "directory": "D:/AI/GODOT/libs/ironui-diffusion.cpp/shared",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_MAX_NAME=128 -DGGML_USE_CPU -DGGML_USE_VULKAN -DSD_BUILD_SHARED_LIB -DSD_USE_VULKAN @CMakeFiles/shared.dir/includes_CXX.rsp  -Wa,-mbig-obj -g -g -o CMakeFiles\\shared.dir\\shared.cpp.obj -c D:\\AI\\GODOT\\libs\\ironui-diffusion.cpp\\shared\\shared.cpp",
+  "file": "D:/AI/GODOT/libs/ironui-diffusion.cpp/shared/shared.cpp",
+  "output": "shared/CMakeFiles/shared.dir/shared.cpp.obj"
+}
+]

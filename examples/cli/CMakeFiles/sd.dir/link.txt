@@ -1,0 +1,3 @@
+C:\MinGW\bin\cmake.exe -E rm -f CMakeFiles\sd.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\sd.dir/objects.a @CMakeFiles\sd.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -Wa,-mbig-obj -g -g -Wl,--whole-archive CMakeFiles\sd.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\sd.exe -Wl,--out-implib,libsd.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sd.dir\linkLibs.rsp

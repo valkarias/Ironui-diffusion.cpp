@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/cmake_install.cmake",
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/cmake_install.cmake",
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/cmake_install.cmake",
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-cpu/cmake_install.cmake",
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/ggml/src/ggml-vulkan/cmake_install.cmake",
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/thirdparty/cmake_install.cmake",
+		"D:/AI/GODOT/libs/ironui-diffusion.cpp/shared/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
